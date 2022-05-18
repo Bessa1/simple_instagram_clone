@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ae0b123.css",
+    "main.js": "/static/js/main.9d8a6806.js",
+    "static/js/787.e0c0fb20.chunk.js": "/static/js/787.e0c0fb20.chunk.js",
+    "static/media/insta1.png": "/static/media/insta1.08d7f00dfcf009ff4106.png",
+    "static/media/insta3.png": "/static/media/insta3.9c78f81e8b435c8f8645.png",
+    "static/media/insta4.png": "/static/media/insta4.b5f744a55d8ebf7ba458.png",
+    "static/media/insta2.png": "/static/media/insta2.8a889810bdb3b07be57f.png",
+    "static/media/insta5.png": "/static/media/insta5.78bdf7cba6a6dbd11668.png",
+    "static/media/sugestao5.png": "/static/media/sugestao5.612d00d4fa60c4043226.png",
+    "static/media/sugestao6.png": "/static/media/sugestao6.46668f3914be7a35b738.png",
+    "static/media/perfil6.png": "/static/media/perfil6.06f7a5023449be1a2d29.png",
+    "static/media/perfil5.png": "/static/media/perfil5.c9e86b196b91f85a076d.png",
+    "static/media/sugestao7.png": "/static/media/sugestao7.87958b97c6877b5fa3b7.png",
+    "static/media/perfil4.png": "/static/media/perfil4.94aed7972089b250f3de.png",
+    "static/media/perfil1.png": "/static/media/perfil1.dff183b37f53ea715d41.png",
+    "static/media/perfil2.png": "/static/media/perfil2.67931f2674ecaabb2401.png",
+    "static/media/perfil3.png": "/static/media/perfil3.f34f4997b79aeb9613a1.png",
+    "static/media/iconepost.png": "/static/media/iconepost.a5c8268f9a96cef0f13a.png",
+    "static/media/insta6.png": "/static/media/insta6.a5c8268f9a96cef0f13a.png",
+    "static/media/sugestao4.png": "/static/media/sugestao4.e20c412dcbe6c8bd819b.png",
+    "static/media/destaques2.png": "/static/media/destaques2.a3f5c733b50edba57cd5.png",
+    "static/media/perfil01.png": "/static/media/perfil01.00269bfe852aa2e544f5.png",
+    "static/media/sugestao3.png": "/static/media/sugestao3.b4d5d6ee755cd14e4ab4.png",
+    "static/media/perfilmenu.png": "/static/media/perfilmenu.5d6049487c5ded2a46f5.png",
+    "static/media/happy.png": "/static/media/happy.bcd365353bfbb2794ff8.png",
+    "static/media/gostarneutro.png": "/static/media/gostarneutro.05f7231e3025e5fa9429.png",
+    "static/media/pesquisar.png": "/static/media/pesquisar.1b36106fb180e4013849.png",
+    "static/media/bussola.png": "/static/media/bussola.cb144dfc628e28952e68.png",
+    "static/media/plane.png": "/static/media/plane.3c960cd219a7a0810d5b.png",
+    "static/media/avatar.png": "/static/media/avatar.9dead6fbb971cd36cf78.png",
+    "static/media/comente.png": "/static/media/comente.de191a97a37756823004.png",
+    "index.html": "/index.html",
+    "main.2ae0b123.css.map": "/static/css/main.2ae0b123.css.map",
+    "main.9d8a6806.js.map": "/static/js/main.9d8a6806.js.map",
+    "787.e0c0fb20.chunk.js.map": "/static/js/787.e0c0fb20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae0b123.css",
+    "static/js/main.9d8a6806.js"
+  ]
+}
